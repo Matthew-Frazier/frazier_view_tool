@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+FrazierViewTool::Render.copyright 'Matthew Frazier', 'All rights reserved'
+```
 
 ## Development
 
